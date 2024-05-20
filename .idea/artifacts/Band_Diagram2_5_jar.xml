@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Band_Diagram2.5:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Band_Diagram2_5_jar</output-path>
+    <root id="archive" name="Band_Diagram.jar">
+      <element id="module-output" name="Band_Diagram" />
+    </root>
+  </artifact>
+</component>
